@@ -13,15 +13,15 @@
 # Maintainer      : botvrij.eu
 # Maintainer URL  : http://www.botvrij.eu/
 # List source URL : http://www.botvrij.eu/data/ioclist.ip-dst.raw
-# Source File Date: Fri Oct 14 20:57:06 UTC 2022
+# Source File Date: Tue Oct 18 06:18:16 UTC 2022
 #
 # Category        : attacks
-# Version         : 56
+# Version         : 57
 #
-# This File Date  : Sat Oct 15 21:00:03 UTC 2022
+# This File Date  : Tue Oct 18 21:52:02 UTC 2022
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 84 unique IPs
+# Entries         : 87 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -49,6 +49,9 @@
 45.134.20.66
 45.151.180.178
 45.153.160.140
+45.153.241.64
+45.153.241.88
+45.153.242.251
 46.183.221.109
 54.36.189.105
 54.68.42.4
