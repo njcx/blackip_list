@@ -11,15 +11,15 @@
 # Maintainer      : ProjectHoneypot.org
 # Maintainer URL  : http://www.projecthoneypot.org/
 # List source URL : http://www.projecthoneypot.org/list_of_ips.php?t=h&rss=1
-# Source File Date: Sat Oct 29 16:12:11 UTC 2022
+# Source File Date: Sun Oct 30 16:04:10 UTC 2022
 #
 # Category        : spam
-# Version         : 1582
+# Version         : 1583
 #
-# This File Date  : Sat Oct 29 16:12:11 UTC 2022
+# This File Date  : Sun Oct 30 16:04:10 UTC 2022
 # Update Frequency: 1 hour 
 # Aggregation     : 7 days 
-# Entries         : 170 unique IPs
+# Entries         : 174 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -76,12 +76,14 @@
 95.217.126.80
 101.224.183.247
 102.89.43.34
+103.15.245.238
 103.229.127.183
 103.251.167.21
 104.244.78.6
 105.67.131.48
 105.158.183.226
 106.122.210.219
+107.175.236.231
 107.178.106.122
 109.69.161.131
 109.70.100.21
@@ -177,8 +179,10 @@
 195.176.3.24
 197.185.96.250
 197.210.79.128
+197.255.202.19
 198.46.227.149
 198.46.227.189
+198.98.60.97
 199.115.115.68
 199.247.14.131
 199.249.230.87
