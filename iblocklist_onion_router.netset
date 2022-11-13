@@ -8,15 +8,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=togdoptykrlolpddwbvz&fileformat=p2p&archiveformat=gz
-# Source File Date: Fri Nov 11 22:04:04 UTC 2022
+# Source File Date: Sat Nov 12 22:05:05 UTC 2022
 #
 # Category        : anonymizers
-# Version         : 903
+# Version         : 904
 #
-# This File Date  : Fri Nov 11 22:24:51 UTC 2022
+# This File Date  : Sat Nov 12 22:20:07 UTC 2022
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 970 subnets, 1278 unique IPs
+# Entries         : 977 subnets, 1285 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -203,6 +203,7 @@
 46.195.98.238
 46.195.109.70
 46.195.205.134
+46.195.217.155
 46.195.218.152
 46.226.105.168
 46.232.251.191
@@ -378,6 +379,7 @@
 95.214.55.43
 95.214.235.135
 95.216.107.148
+95.217.210.45
 102.130.113.9
 102.130.127.117
 102.130.127.238/31
@@ -547,9 +549,12 @@
 146.59.233.33
 146.70.126.175
 146.70.126.179
+146.70.126.180
 146.70.126.207
 146.70.126.239
+146.70.126.244
 146.70.129.105
+146.70.129.114
 146.70.134.10
 146.70.134.79
 146.70.134.82
@@ -789,6 +794,7 @@
 185.243.218.27
 185.243.218.41
 185.243.218.46
+185.243.218.55
 185.243.218.78
 185.243.218.89
 185.243.218.110
@@ -834,6 +840,7 @@
 188.240.210.20
 189.84.21.44
 189.147.143.222
+189.147.152.238
 190.2.146.134
 190.10.8.166
 190.103.179.76
