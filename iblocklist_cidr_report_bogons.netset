@@ -8,15 +8,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=lujdnbasfaaixitgmxpp&fileformat=p2p&archiveformat=gz
-# Source File Date: Sun Nov 13 04:30:43 UTC 2022
+# Source File Date: Tue Nov 15 04:35:10 UTC 2022
 #
 # Category        : unroutable
-# Version         : 1266
+# Version         : 1267
 #
-# This File Date  : Sun Nov 13 04:36:16 UTC 2022
+# This File Date  : Tue Nov 15 04:52:56 UTC 2022
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 6866 subnets, 603348432 unique IPs
+# Entries         : 6864 subnets, 603347664 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -4396,7 +4396,6 @@
 103.31.220.0/22
 103.36.88.0/22
 103.37.124.0/22
-103.37.186.0/23
 103.38.52.0/22
 103.38.104.0/21
 103.38.180.0/22
@@ -4637,7 +4636,6 @@
 103.91.148.0/22
 103.91.168.0/22
 103.91.224.0/22
-103.93.18.0/24
 103.93.20.0/22
 103.93.27.0/24
 103.93.32.0/22
