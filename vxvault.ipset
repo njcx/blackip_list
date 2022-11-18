@@ -9,12 +9,12 @@
 # Maintainer      : VxVault
 # Maintainer URL  : http://vxvault.net
 # List source URL : http://vxvault.net/ViriList.php?s=0&m=100
-# Source File Date: Wed Nov 16 08:32:46 UTC 2022
+# Source File Date: Wed Nov 16 20:44:49 UTC 2022
 #
 # Category        : malware
-# Version         : 1008
+# Version         : 1009
 #
-# This File Date  : Wed Nov 16 08:32:46 UTC 2022
+# This File Date  : Wed Nov 16 20:44:49 UTC 2022
 # Update Frequency: 12 hours 
 # Aggregation     : none
 # Entries         : 57 unique IPs
@@ -29,7 +29,9 @@
 # Processed with FireHOL's iprange
 #
 23.88.123.223
+31.42.177.59
 35.213.155.151
+41.73.116.156
 41.76.208.46
 45.83.122.242
 45.83.123.158
@@ -44,7 +46,6 @@
 84.38.130.219
 85.192.63.81
 85.208.136.89
-88.198.98.203
 89.208.104.172
 91.106.207.75
 92.42.110.125
@@ -77,7 +78,6 @@
 185.225.73.46
 186.182.55.44
 189.143.175.39
-192.3.136.187
 193.31.116.239
 193.106.191.182
 194.38.23.170
