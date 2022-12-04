@@ -9,15 +9,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=czvaehmjpsnwwttrdoyl&fileformat=p2p&archiveformat=gz
-# Source File Date: Sat Dec  3 03:35:22 UTC 2022
+# Source File Date: Sun Dec  4 03:36:22 UTC 2022
 #
 # Category        : attacks
-# Version         : 641
+# Version         : 642
 #
-# This File Date  : Sat Dec  3 03:56:39 UTC 2022
+# This File Date  : Sun Dec  4 03:52:11 UTC 2022
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 13306 subnets, 13595 unique IPs
+# Entries         : 13312 subnets, 13601 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -694,6 +694,7 @@
 20.200.218.156
 20.203.174.59
 20.203.177.98
+20.203.221.49
 20.205.234.193
 20.206.152.36
 20.207.80.198
@@ -6606,6 +6607,7 @@
 103.90.235.91
 103.91.80.2
 103.91.130.1
+103.92.27.198
 103.92.235.60
 103.94.16.129
 103.96.73.160
@@ -6642,6 +6644,7 @@
 103.146.202.150
 103.147.10.222
 103.152.164.103
+103.153.183.106
 103.153.183.244
 103.154.177.165
 103.159.53.102
@@ -8256,6 +8259,7 @@
 142.0.135.1
 142.0.135.2
 142.0.138.34
+142.4.1.45
 142.4.4.131
 142.4.102.226
 142.4.109.196
@@ -8399,6 +8403,7 @@
 145.249.153.223
 146.0.36.43
 146.0.36.52
+146.0.75.2
 146.0.77.104
 146.0.78.51
 146.59.18.57
@@ -10420,6 +10425,7 @@
 185.189.112.165
 185.189.114.98
 185.190.24.74
+185.190.24.91
 185.191.76.27
 185.191.204.3
 185.192.70.23
