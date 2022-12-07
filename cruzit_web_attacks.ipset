@@ -10,15 +10,15 @@
 # Maintainer      : CruzIt.com
 # Maintainer URL  : http://www.cruzit.com/wbl.php
 # List source URL : http://www.cruzit.com/xwbl2txt.php
-# Source File Date: Tue Dec  6 05:28:04 UTC 2022
+# Source File Date: Wed Dec  7 05:44:04 UTC 2022
 #
 # Category        : attacks
-# Version         : 1777
+# Version         : 1779
 #
-# This File Date  : Tue Dec  6 05:28:04 UTC 2022
+# This File Date  : Wed Dec  7 05:44:04 UTC 2022
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 13087 unique IPs
+# Entries         : 13091 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -2579,6 +2579,7 @@
 52.186.11.118
 52.186.13.110
 52.186.23.50
+52.186.182.5
 52.188.0.112
 52.188.9.234
 52.188.68.29
@@ -6718,6 +6719,7 @@
 104.199.177.7
 104.199.192.122
 104.199.216.0
+104.200.151.43
 104.200.154.57
 104.200.154.79
 104.200.154.103
@@ -8014,6 +8016,7 @@
 139.59.57.64
 139.59.109.146
 139.59.116.242
+139.59.117.30
 139.59.120.170
 139.59.125.214
 139.59.136.64
@@ -11143,6 +11146,7 @@
 195.186.81.204
 195.190.166.35
 195.200.224.74
+195.201.11.222
 195.201.141.210
 195.201.146.46
 195.201.201.61
