@@ -18,12 +18,12 @@
 # Maintainer      : DynDNS.org
 # Maintainer URL  : http://security-research.dyndns.org/pub/malware-feeds/
 # List source URL : http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv
-# Source File Date: Sun Dec 25 20:29:06 UTC 2022
+# Source File Date: Mon Dec 26 20:29:32 UTC 2022
 #
 # Category        : malware
-# Version         : 1565
+# Version         : 1566
 #
-# This File Date  : Sun Dec 25 20:44:11 UTC 2022
+# This File Date  : Mon Dec 26 20:44:32 UTC 2022
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 48 unique IPs
@@ -38,13 +38,11 @@
 # Processed with FireHOL's iprange
 #
 3.18.7.81
-3.130.253.23
-3.140.13.188
-18.119.154.66
+3.94.41.167
+3.130.204.160
 31.11.36.8
-34.205.242.146
 46.30.213.87
-52.86.6.113
+52.71.57.184
 54.153.111.129
 54.161.222.85
 63.247.141.235
@@ -62,6 +60,7 @@
 79.124.76.10
 82.118.24.217
 85.13.140.101
+89.40.32.128
 89.221.250.12
 94.130.190.96
 94.152.142.140
@@ -83,5 +82,6 @@
 213.186.33.18
 213.186.33.19
 217.76.132.246
+217.160.0.152
 217.160.0.225
 217.160.0.240
