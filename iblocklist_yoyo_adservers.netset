@@ -8,15 +8,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=zhogegszwduurnvsyhdf&fileformat=p2p&archiveformat=gz
-# Source File Date: Sat Dec 24 21:10:33 UTC 2022
+# Source File Date: Sat Dec 31 21:34:17 UTC 2022
 #
 # Category        : organizations
-# Version         : 201
+# Version         : 202
 #
-# This File Date  : Sat Dec 24 21:24:13 UTC 2022
+# This File Date  : Sat Dec 31 21:48:04 UTC 2022
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 8185 subnets, 9613 unique IPs
+# Entries         : 8172 subnets, 9594 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1796,9 +1796,6 @@
 66.11.225.247
 66.15.30.41
 66.15.159.242
-66.18.76.74
-66.18.76.85
-66.18.76.86
 66.23.226.207
 66.28.32.70
 66.28.32.118
@@ -1978,7 +1975,6 @@
 66.150.14.49
 66.150.14.58
 66.150.14.60/31
-66.150.114.21
 66.150.161.44
 66.150.161.135
 66.150.161.140/31
@@ -2225,9 +2221,6 @@
 67.215.246.202
 67.215.253.138
 67.216.179.138
-67.217.168.212/31
-67.217.168.214
-67.217.184.239
 67.221.235.201
 67.222.103.233
 67.222.158.75
@@ -3799,8 +3792,6 @@
 87.252.210.32
 87.252.215.237
 87.252.216.119
-87.255.53.20/30
-87.255.53.24
 88.80.7.173
 88.80.192.60
 88.80.192.62
@@ -5757,12 +5748,10 @@
 195.250.204.84
 196.2.24.20
 196.2.63.180
-196.25.210.68/31
 196.30.168.91
 196.34.149.71
 196.38.17.67
 196.38.17.68
-196.41.214.139
 198.1.115.107
 198.23.53.105
 198.41.185.57
@@ -6428,8 +6417,6 @@
 208.69.181.200/31
 208.69.181.202
 208.70.72.204
-208.70.73.35
-208.70.73.36/31
 208.70.73.143
 208.70.79.137
 208.71.104.181
