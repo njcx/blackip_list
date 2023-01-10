@@ -9,15 +9,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=czvaehmjpsnwwttrdoyl&fileformat=p2p&archiveformat=gz
-# Source File Date: Mon Jan  9 05:08:13 UTC 2023
+# Source File Date: Tue Jan 10 05:15:04 UTC 2023
 #
 # Category        : attacks
-# Version         : 676
+# Version         : 677
 #
-# This File Date  : Mon Jan  9 05:28:17 UTC 2023
+# This File Date  : Tue Jan 10 05:24:08 UTC 2023
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 13429 subnets, 13720 unique IPs
+# Entries         : 13431 subnets, 13722 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -9524,6 +9524,7 @@
 171.98.73.6
 171.239.175.171
 171.244.18.14
+171.244.21.74
 171.244.45.137
 171.244.49.8
 171.244.139.67
@@ -10347,6 +10348,7 @@
 185.32.201.122
 185.34.192.176
 185.35.78.77
+185.36.81.51
 185.37.161.129
 185.38.14.171
 185.38.14.215
