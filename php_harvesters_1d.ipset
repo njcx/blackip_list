@@ -11,15 +11,15 @@
 # Maintainer      : ProjectHoneypot.org
 # Maintainer URL  : http://www.projecthoneypot.org/
 # List source URL : http://www.projecthoneypot.org/list_of_ips.php?t=h&rss=1
-# Source File Date: Sun Jan 15 15:52:14 UTC 2023
+# Source File Date: Mon Jan 16 15:44:07 UTC 2023
 #
 # Category        : spam
-# Version         : 1659
+# Version         : 1660
 #
-# This File Date  : Sun Jan 15 15:52:14 UTC 2023
+# This File Date  : Mon Jan 16 15:44:08 UTC 2023
 # Update Frequency: 1 hour 
 # Aggregation     : 1 day 
-# Entries         : 58 unique IPs
+# Entries         : 63 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -35,36 +35,42 @@
 23.129.64.134/31
 23.129.64.136/29
 23.129.64.144/30
-23.129.64.148/31
+23.129.64.148
 23.129.64.210/31
 23.129.64.212/30
 23.129.64.216/30
 23.129.64.225
-23.129.64.250
+36.250.184.197
 37.19.217.136
 41.190.30.212
 45.83.151.91
+45.128.234.28
+60.174.193.161
 69.30.252.69
-80.78.68.112
+80.89.137.214
 89.123.33.84
-91.241.20.17
 103.15.245.238
 104.144.6.115
 104.144.167.110
 104.168.56.132
 104.244.73.205
+107.172.80.224
+107.173.19.109
 107.173.153.254
-119.122.213.103
+109.69.161.131
 134.249.177.45
+138.128.11.220
 177.124.212.26
 182.106.128.229
-192.3.168.59
+183.17.67.188
+185.226.113.180
+192.3.33.210
 192.3.241.252
 192.210.176.3
 192.210.176.128
 192.210.229.17
+192.227.138.177
 197.211.61.59
 198.20.172.248
 198.46.83.128
 216.246.49.55
-222.129.54.130
