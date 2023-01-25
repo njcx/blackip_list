@@ -9,12 +9,12 @@
 # Maintainer      : VxVault
 # Maintainer URL  : http://vxvault.net
 # List source URL : http://vxvault.net/ViriList.php?s=0&m=100
-# Source File Date: Fri Jan 20 23:04:17 UTC 2023
+# Source File Date: Wed Jan 25 00:12:07 UTC 2023
 #
 # Category        : malware
-# Version         : 1031
+# Version         : 1033
 #
-# This File Date  : Fri Jan 20 23:04:17 UTC 2023
+# This File Date  : Wed Jan 25 00:12:07 UTC 2023
 # Update Frequency: 12 hours 
 # Aggregation     : none
 # Entries         : 49 unique IPs
@@ -37,6 +37,7 @@
 41.73.116.156
 45.8.144.98
 45.15.159.230
+72.251.235.155
 77.73.133.113
 77.73.134.24
 78.140.185.141
@@ -50,9 +51,9 @@
 91.227.16.12
 95.216.247.165
 104.21.234.84
-104.21.234.85
 104.192.141.1
 109.102.255.230
+137.175.17.190
 140.82.121.3
 140.82.121.4
 145.14.144.47
@@ -69,7 +70,6 @@
 185.123.53.140
 186.182.55.44
 188.93.233.99
-189.143.175.39
 192.3.101.26
 193.106.191.182
 194.180.48.203
