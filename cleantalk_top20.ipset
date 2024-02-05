@@ -8,12 +8,12 @@
 # Maintainer      : CleanTalk
 # Maintainer URL  : https://cleantalk.org/
 # List source URL : https://cleantalk.org/blacklists/top20
-# Source File Date: Sun Feb  4 04:17:43 UTC 2024
+# Source File Date: Mon Feb  5 04:29:17 UTC 2024
 #
 # Category        : abuse
-# Version         : 1589
+# Version         : 1590
 #
-# This File Date  : Sun Feb  4 04:17:44 UTC 2024
+# This File Date  : Mon Feb  5 04:29:17 UTC 2024
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 20 unique IPs
@@ -40,8 +40,8 @@
 178.159.37.115
 185.93.3.114
 185.190.42.200
-188.126.94.68
 188.126.94.189
+191.101.217.24
 191.101.217.25
 199.167.138.22
 212.102.57.3
