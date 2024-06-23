@@ -9,15 +9,15 @@
 # Maintainer      : TorProject.org
 # Maintainer URL  : https://www.torproject.org/
 # List source URL : https://check.torproject.org/exit-addresses
-# Source File Date: Sat Jun 22 08:30:43 UTC 2024
+# Source File Date: Sun Jun 23 03:30:50 UTC 2024
 #
 # Category        : anonymizers
-# Version         : 21869
+# Version         : 21874
 #
-# This File Date  : Sat Jun 22 08:32:04 UTC 2024
+# This File Date  : Sun Jun 23 03:36:04 UTC 2024
 # Update Frequency: 5 mins 
 # Aggregation     : none
-# Entries         : 1122 unique IPs
+# Entries         : 1118 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,8 +29,6 @@
 # Processed with FireHOL's iprange
 #
 2.57.122.58
-2.57.122.179
-2.57.122.215
 2.57.122.246
 2.57.168.10
 2.57.168.64
@@ -98,7 +96,6 @@
 5.255.125.41
 5.255.125.196
 5.255.127.222
-23.26.133.152
 23.94.211.25
 23.137.248.69
 23.137.248.100
@@ -152,6 +149,7 @@
 37.228.129.128
 37.228.129.131
 38.242.254.131
+41.216.183.87
 45.8.22.207
 45.11.59.28
 45.12.3.80
@@ -486,7 +484,6 @@
 107.189.11.111
 107.189.11.113
 107.189.12.3
-107.189.12.7
 107.189.12.88
 107.189.13.91
 107.189.13.180
@@ -1068,7 +1065,6 @@
 195.176.3.20
 195.176.3.23
 195.176.3.24
-195.234.63.128
 198.46.166.157
 198.58.107.53
 198.96.155.3
