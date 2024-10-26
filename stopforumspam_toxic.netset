@@ -10,15 +10,15 @@
 # Maintainer      : StopForumSpam.com
 # Maintainer URL  : http://www.stopforumspam.com/
 # List source URL : http://www.stopforumspam.com/downloads/toxic_ip_cidr.txt
-# Source File Date: Fri Oct 18 23:00:03 UTC 2024
+# Source File Date: Fri Oct 25 21:00:03 UTC 2024
 #
 # Category        : abuse
-# Version         : 17
+# Version         : 18
 #
-# This File Date  : Sat Oct 19 00:16:10 UTC 2024
+# This File Date  : Fri Oct 25 22:16:10 UTC 2024
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 48 subnets, 120428 unique IPs
+# Entries         : 51 subnets, 121708 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -50,6 +50,9 @@
 46.118.115.0/24
 46.161.9.0/24
 46.161.11.0/24
+46.232.24.0/23
+46.232.112.0/23
+46.232.114.0/24
 91.200.12.0/22
 91.210.104.0/22
 95.137.147.0/28
