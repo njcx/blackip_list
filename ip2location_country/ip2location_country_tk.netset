@@ -9,15 +9,15 @@
 # Maintainer      : IP2Location.com
 # Maintainer URL  : http://lite.ip2location.com/database-ip-country
 # List source URL : http://download.ip2location.com/lite/IP2LOCATION-LITE-DB1.CSV.ZIP
-# Source File Date: Sun Aug 29 23:13:49 UTC 2021
+# Source File Date: Thu Jan 15 00:00:00 UTC 2026
 #
 # Category        : geolocation
-# Version         : 7
+# Version         : 8
 #
-# This File Date  : Mon Aug 30 06:16:25 UTC 2021
+# This File Date  : Fri Jan 16 00:05:06 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 4 subnets, 3328 unique IPs
+# Entries         : 3 subnets, 3072 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,6 +29,5 @@
 # Processed with FireHOL's iprange
 #
 27.96.24.0/21
-45.85.14.0/24
 194.0.38.0/23
 194.0.40.0/23
