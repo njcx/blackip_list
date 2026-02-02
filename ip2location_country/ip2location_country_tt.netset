@@ -9,15 +9,15 @@
 # Maintainer      : IP2Location.com
 # Maintainer URL  : http://lite.ip2location.com/database-ip-country
 # List source URL : http://download.ip2location.com/lite/IP2LOCATION-LITE-DB1.CSV.ZIP
-# Source File Date: Thu Jan 15 00:00:00 UTC 2026
+# Source File Date: Sun Feb  1 00:00:00 UTC 2026
 #
 # Category        : geolocation
-# Version         : 18
+# Version         : 19
 #
-# This File Date  : Fri Jan 16 00:05:07 UTC 2026
+# This File Date  : Sun Feb  1 15:53:09 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 98 subnets, 563456 unique IPs
+# Entries         : 92 subnets, 546560 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,7 +29,6 @@
 # Processed with FireHOL's iprange
 #
 23.3.72.0/24
-23.230.104.0/24
 38.18.32.0/19
 38.190.137.0/24
 38.190.138.0/23
@@ -43,7 +42,6 @@
 64.28.128.0/20
 66.205.36.0/22
 82.149.78.0/24
-108.171.106.0/24
 129.222.198.0/23
 131.72.76.0/22
 131.100.36.0/22
@@ -98,8 +96,7 @@
 190.93.94.0/24
 190.93.96.0/23
 190.93.99.0/24
-190.93.100.0/23
-190.93.102.0/24
+190.93.100.0/22
 190.93.104.0/21
 190.93.112.0/21
 190.93.124.0/24
@@ -110,8 +107,6 @@
 196.3.132.0/22
 196.3.136.0/21
 196.3.144.0/22
-196.29.64.0/19
-196.32.32.0/19
 200.1.104.0/21
 200.3.176.0/21
 200.7.88.0/21
@@ -124,5 +119,4 @@
 201.221.80.0/21
 201.221.92.0/22
 201.238.64.0/18
-204.195.247.0/24
 209.94.192.0/19

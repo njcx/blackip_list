@@ -9,15 +9,15 @@
 # Maintainer      : IP2Location.com
 # Maintainer URL  : http://lite.ip2location.com/database-ip-country
 # List source URL : http://download.ip2location.com/lite/IP2LOCATION-LITE-DB1.CSV.ZIP
-# Source File Date: Thu Jan 15 00:00:00 UTC 2026
+# Source File Date: Sun Feb  1 00:00:00 UTC 2026
 #
 # Category        : geolocation
-# Version         : 49
+# Version         : 50
 #
-# This File Date  : Fri Jan 16 00:04:26 UTC 2026
+# This File Date  : Sun Feb  1 15:52:29 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 148 subnets, 218624 unique IPs
+# Entries         : 154 subnets, 221184 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -41,6 +41,7 @@
 64.207.208.0/21
 64.224.144.0/20
 74.118.80.0/22
+80.247.139.0/24
 82.205.138.0/24
 82.205.151.0/24
 82.205.181.0/24
@@ -134,13 +135,15 @@
 119.59.80.0/21
 121.100.48.0/21
 125.213.192.0/19
+125.253.152.0/22
+125.253.156.0/23
 128.41.128.0/17
 137.59.120.0/22
 149.54.0.0/17
 152.36.192.0/19
+154.30.28.0/24
 156.229.32.0/21
 157.10.229.0/24
-157.240.159.0/24
 160.30.234.0/24
 160.187.18.0/23
 160.187.20.0/23
@@ -158,10 +161,12 @@
 175.106.32.0/19
 180.94.64.0/19
 180.222.136.0/21
+185.27.248.0/24
+185.27.250.0/24
 185.112.128.0/23
 185.178.144.0/22
 185.193.212.0/22
-188.164.69.0/24
+188.164.71.0/24
 195.242.241.0/24
 196.195.4.0/24
 196.195.15.0/24
@@ -175,4 +180,5 @@
 203.171.124.0/22
 203.174.27.0/24
 203.215.32.0/20
+217.10.167.0/24
 223.26.20.0/22
