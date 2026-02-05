@@ -21,15 +21,15 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://feodotracker.abuse.ch/
 # List source URL : https://feodotracker.abuse.ch/downloads/ipblocklist.txt
-# Source File Date: Wed Feb  4 09:15:03 UTC 2026
+# Source File Date: Thu Feb  5 09:40:04 UTC 2026
 #
 # Category        : malware
-# Version         : 42
+# Version         : 44
 #
-# This File Date  : Wed Feb  4 09:24:14 UTC 2026
+# This File Date  : Thu Feb  5 09:44:09 UTC 2026
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 4 unique IPs
+# Entries         : 2 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -41,6 +41,4 @@
 # Processed with FireHOL's iprange
 #
 34.204.119.63
-162.243.103.246
-167.86.75.145
 172.232.59.14
