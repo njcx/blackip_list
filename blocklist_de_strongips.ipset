@@ -9,12 +9,12 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/strongips.txt
-# Source File Date: Tue Mar 10 03:00:42 UTC 2026
+# Source File Date: Wed Mar 11 09:12:22 UTC 2026
 #
 # Category        : attacks
-# Version         : 57112
+# Version         : 57115
 #
-# This File Date  : Tue Mar 10 03:08:14 UTC 2026
+# This File Date  : Wed Mar 11 09:20:14 UTC 2026
 # Update Frequency: 15 mins 
 # Aggregation     : none
 # Entries         : 312 unique IPs
@@ -182,7 +182,6 @@
 103.28.37.227
 103.48.192.48
 103.63.108.25
-103.82.26.182
 103.84.236.222
 103.84.236.242
 103.86.180.10
@@ -204,6 +203,7 @@
 111.33.78.99
 111.68.98.152
 111.238.174.6
+112.132.249.164
 112.216.108.62
 114.34.106.146
 116.1.238.250
@@ -304,7 +304,6 @@
 201.48.78.29
 201.184.50.251
 201.186.40.250
-201.217.143.51
 201.249.89.102
 202.85.222.190
 202.125.94.71
@@ -340,3 +339,4 @@
 222.120.176.6
 222.236.46.74
 223.197.186.7
+223.197.248.209
