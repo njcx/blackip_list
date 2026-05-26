@@ -8,15 +8,15 @@
 # Maintainer      : IPDeny.com
 # Maintainer URL  : http://www.ipdeny.com/
 # List source URL : http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz
-# Source File Date: Fri Dec  7 12:07:44 UTC 2018
+# Source File Date: Tue Mar 31 10:09:55 UTC 2026
 #
 # Category        : geolocation
-# Version         : 8
+# Version         : 9
 #
-# This File Date  : Fri Dec  7 12:20:10 UTC 2018
+# This File Date  : Wed Apr  1 00:48:56 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 49 subnets, 2441216 unique IPs
+# Entries         : 55 subnets, 2516736 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -28,7 +28,10 @@
 # Processed with FireHOL's iprange
 #
 45.6.248.0/21
-45.228.64.0/22
+45.228.64.0/23
+69.164.80.0/24
+69.164.91.0/24
+69.164.98.0/24
 131.0.212.0/22
 138.59.12.0/22
 138.99.44.0/22
@@ -42,16 +45,20 @@
 170.247.168.0/22
 179.0.156.0/22
 179.24.0.0/13
+181.103.64.0/19
+181.224.164.0/23
 186.8.0.0/16
 186.48.0.0/13
 190.0.128.0/19
 190.64.0.0/16
 190.99.96.0/20
 190.108.0.0/19
+190.110.245.0/24
 190.112.52.0/22
 190.112.192.0/22
 190.112.200.0/22
 190.132.0.0/14
+191.166.0.0/16
 192.146.237.0/24
 200.0.68.0/23
 200.0.86.0/23
@@ -67,6 +74,8 @@
 200.40.0.0/16
 200.58.128.0/19
 200.71.0.0/19
+200.90.152.0/23
+200.90.154.0/24
 200.93.240.0/21
 200.108.192.0/18
 200.115.72.0/21
