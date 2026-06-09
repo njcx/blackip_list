@@ -9,15 +9,15 @@
 # Maintainer      : DShield.org
 # Maintainer URL  : https://dshield.org/
 # List source URL : https://feeds.dshield.org/block.txt
-# Source File Date: Mon Jun  8 05:29:37 UTC 2026
+# Source File Date: Tue Jun  9 03:44:45 UTC 2026
 #
 # Category        : attacks
-# Version         : 9512
+# Version         : 9516
 #
-# This File Date  : Mon Jun  8 06:08:02 UTC 2026
+# This File Date  : Tue Jun  9 03:52:02 UTC 2026
 # Update Frequency: 10 mins 
 # Aggregation     : 1 day 
-# Entries         : 26 subnets, 6656 unique IPs
+# Entries         : 32 subnets, 8192 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,6 +29,7 @@
 # Processed with FireHOL's iprange
 #
 5.61.209.0/24
+5.226.140.0/24
 31.59.160.0/24
 43.228.157.0/24
 45.148.10.0/24
@@ -37,20 +38,25 @@
 64.62.156.0/24
 64.62.197.0/24
 65.49.1.0/24
+65.49.20.0/24
 66.132.172.0/24
 66.132.186.0/24
 66.132.195.0/24
+66.132.224.0/24
+77.90.185.0/24
+79.124.40.0/24
+81.19.219.0/24
 87.251.64.0/24
+91.224.92.0/24
 147.185.132.0/24
 167.94.145.0/24
 176.65.139.0/24
 179.43.163.0/24
+185.242.226.0/24
 188.240.59.0/24
 193.163.125.0/24
-195.184.76.0/24
 198.235.24.0/24
 199.45.154.0/24
 204.76.203.0/24
 205.210.31.0/24
-216.25.89.0/24
 216.180.246.0/24
