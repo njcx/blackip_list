@@ -12,15 +12,15 @@
 # Maintainer      : stamparm
 # Maintainer URL  : https://github.com/stamparm/ipsum
 # List source URL : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt
-# Source File Date: Tue Jul 14 03:41:26 UTC 2026
+# Source File Date: Wed Jul 15 04:04:40 UTC 2026
 #
 # Category        : attacks
-# Version         : 101
+# Version         : 102
 #
-# This File Date  : Tue Jul 14 03:41:26 UTC 2026
+# This File Date  : Wed Jul 15 04:04:40 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 20 unique IPs
+# Entries         : 22 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -32,22 +32,24 @@
 # Processed with FireHOL's iprange
 #
 2.57.121.25
-2.57.122.238
-43.228.157.121
-45.148.10.147
-45.156.87.178
-71.6.199.23
+18.218.118.203
+66.132.195.114
 77.90.185.20
+80.82.77.139
+80.94.92.55
+80.94.92.234
+86.54.31.34
 92.118.39.14
-93.174.95.106
-94.102.49.193
 94.154.43.30
 94.154.43.230
-102.140.97.134
+118.26.111.107
 159.65.143.47
-167.94.146.53
+167.94.146.56
+167.94.146.57
 176.53.159.197
+176.53.159.198
+182.93.50.90
+185.70.109.79
 185.242.3.195
-193.46.255.86
+193.24.211.76
 195.178.110.137
-202.183.141.133
