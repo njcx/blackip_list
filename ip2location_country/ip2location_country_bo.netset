@@ -9,15 +9,15 @@
 # Maintainer      : IP2Location.com
 # Maintainer URL  : http://lite.ip2location.com/database-ip-country
 # List source URL : https://download.ip2location.com/lite/IP2LOCATION-LITE-DB1.CSV.ZIP
-# Source File Date: Sat Aug 15 00:00:00 UTC 2026
+# Source File Date: Tue Sep  1 00:00:00 UTC 2026
 #
 # Category        : geolocation
-# Version         : 53
+# Version         : 54
 #
-# This File Date  : Sat Aug 15 18:36:53 UTC 2026
+# This File Date  : Wed Sep  2 01:04:37 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 166 subnets, 1211392 unique IPs
+# Entries         : 167 subnets, 1211648 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -61,7 +61,6 @@
 57.74.240.0/22
 63.65.12.0/24
 64.64.99.0/24
-66.234.154.0/24
 75.125.137.0/24
 82.21.156.0/24
 82.21.195.0/24
@@ -91,7 +90,6 @@
 149.19.170.0/23
 151.241.236.0/24
 154.9.180.0/24
-154.90.1.0/24
 157.167.17.0/24
 158.172.152.0/21
 158.172.224.0/19
@@ -102,6 +100,8 @@
 161.138.0.0/16
 164.137.5.0/24
 164.137.30.0/24
+165.85.32.0/24
+165.85.224.0/24
 166.114.0.0/16
 167.157.0.0/16
 167.250.135.0/24
@@ -199,3 +199,4 @@
 203.88.99.0/24
 205.185.214.0/24
 208.1.190.0/24
+208.127.20.0/24
